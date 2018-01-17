@@ -1,0 +1,2 @@
+#!/usr/bin/env groovy
+ echo 'Hello JENKINS! I am Branch-1 Jenkinsfile called from GitHub...'
