@@ -1,2 +1,4 @@
 #!/usr/bin/env groovy
- echo 'Hello JENKINS! I am Branch-1 Jenkinsfile called from GitHub...'
+ echo 'Hello JENKINS! I am JOB-4 calling the HelloProject Branch-1 Jenkinsfile from GitHub Account...'
+echo 'BRANCH_NAME='+env.BRANCH_NAME
+
